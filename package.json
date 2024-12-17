@@ -1,0 +1,16 @@
+{
+  "name": "socket_server",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus Emre Çıracı",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "socket.io": "^4.8.1"
+  }
+}
